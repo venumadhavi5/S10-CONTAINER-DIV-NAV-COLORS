@@ -1,0 +1,82 @@
+#fighters{
+    background-color: rgb(220, 149, 62);
+    width: 500px;
+    text-align: center;
+    color: blue;
+    border-radius: 50px;
+    border: 10px solid black ;
+    text-shadow:20px 20px 20px rgb(21, 194, 139);
+}
+img{
+    width: 300px;
+    height: 300px;
+    
+}
+#nehruDiv{
+    background-color: rgb(247, 0, 255);
+    width: 300px;
+   border: 10px double black;
+    border-radius: 50px;
+    
+}
+#gandhiDiv{
+    background-color: #0080ff;
+    width: 300px;
+     border: 10px ridge rgb(197, 11, 160);
+   
+
+}
+#lakshmibaiDiv{
+    background-color: hsl(142, 100%, 50%);
+    width: 300px;
+    border: 10px dashed rgb(197, 11, 33);
+   
+
+}
+#patelDiv{
+    background-color: #e1ff00;
+    width: 300px;
+    border: 10px dotted rgb(70, 11, 197);
+   
+
+}
+#naiduDiv{
+    background-color: #6390a3;
+    width: 300px;
+    border: 10px inset rgb(197, 11, 11);
+   
+
+}
+#boseDiv{
+    background-color: #a37a63;
+    width: 300px;
+    border: 10px inset yellow;
+   
+
+}
+div{
+    display: inline-block;
+    text-align: center;
+    margin: 80px;
+    border-radius: 50px;
+    width: 300px;
+    height: 600px;
+    padding: 20px;
+    box-shadow: 20px 20px 20px black;
+    overflow: hidden;
+
+}
+div p{
+    text-align: justify;
+    padding: 20px;
+}
+nav{
+    background-color: deeppink;
+    font-size: 2rem;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px yellowgreen;
+    color: blue;
+}
+
